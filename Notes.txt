@@ -1,0 +1,1 @@
+In C and many programming languages, 0 typically represents false in conditional statements, while any non-zero value is considered true.
